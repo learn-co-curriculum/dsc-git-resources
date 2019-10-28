@@ -9,7 +9,9 @@ Now that you've gotten a solid introduction to git, it's time to give you a reso
 
 You will be able to:
 
-* Find great git resources to reference!
+* Use resources to expand Git and Markdown skills
+
+## Git and Markdown Resources
 
 * Git Basics ([Gist of Git resources](https://gist.github.com/aviflombaum/0d1c335291350a2e4036))
   - [Getting Started 1](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)
@@ -39,5 +41,5 @@ You will be able to:
 
 ## Summary
 
-Not a lesson in the traditional sense, but a great list of resources for you now or going forward on git resources! (Also of note, Markdown is the text formating used to display readme's on github, hence the .md extension of README.md.) Cheers!
+Not a lesson in the traditional sense, but a great list of resources for you now or going forward on git resources! (Also of note, Markdown is the text formating used to display readme's on GitHub, hence the .md extension of README.md.) Cheers!
 

@@ -13,7 +13,9 @@ You will be able to:
 
 ## Git and Markdown Resources
 
-* Git Basics ([Gist of Git resources](https://gist.github.com/aviflombaum/0d1c335291350a2e4036))
+
+### Git Basics
+  - ([Gist of Git resources](https://gist.github.com/aviflombaum/0d1c335291350a2e4036))
   - [Getting Started 1](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)
   - [Getting Started 2](http://git-scm.com/book/en/Getting-Started-About-Version-Control)
   - [Git Basics 1](http://git-scm.com/book/en/Git-Basics-Recording-Changes-to-the-Repository)
@@ -24,20 +26,23 @@ You will be able to:
   - [Merging](http://git-scm.com/book/en/Git-Branching-Basic-Branching-and-Merging)
   - [Branch Management](http://git-scm.com/book/en/Git-Branching-Branch-Management)
   - [Workflows](http://git-scm.com/book/en/Git-Branching-Branching-Workflows)
-  - Additional Resources
-    - [Git Guide](http://rogerdudler.github.io/git-guide/)
-    - [Git Branching](http://pcottle.github.io/learnGitBranching/)
-    - [Visual Git](http://marklodato.github.io/visual-git-guide/index-en.html)
-    - [Public Private Key Video](http://www.youtube.com/watch?v=3QnD2c4Xovk&feature=plcp)
-* Markdown
+  
+### Additional Git Resources
+  - [Git Guide](http://rogerdudler.github.io/git-guide/)
+  - [Git Branching](http://pcottle.github.io/learnGitBranching/)
+  - [Visual Git](http://marklodato.github.io/visual-git-guide/index-en.html)
+  - [Public Private Key Video](http://www.youtube.com/watch?v=3QnD2c4Xovk&feature=plcp)
+  
+### Markdown
   - [GitHub Flavored Markdown](http://github.github.com/github-flavored-markdown)
   - [Daring Fireball MD Basics](http://daringfireball.net/projects/markdown/basics)
   - [Daring Fireball MD Syntax](http://daringfireball.net/projects/markdown/syntax)
   - [Byword MultiMarkdown Guide](http://bywordapp.com/markdown/guide.html)
-  * Markdown plugins and apps
-    - [Sublime MD Preview Plugin](https://github.com/revolunet/sublimetext-markdown-preview)
-    - [Mou MD writer app](http://mouapp.com/)
-    - [Atom text editor](https://atom.io) has a markdown preview built in.
+ 
+#### Markdown plugins and apps
+  - [Sublime MD Preview Plugin](https://github.com/revolunet/sublimetext-markdown-preview)
+  - [Mou MD writer app](http://mouapp.com/)
+  - [Atom text editor](https://atom.io) has a markdown preview built in.
 
 ## Summary
 

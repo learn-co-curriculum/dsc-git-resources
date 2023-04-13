@@ -1,4 +1,3 @@
-
 # Git Resources
 
 ## Introduction
@@ -38,13 +37,7 @@ You will be able to:
   - [Daring Fireball MD Basics](http://daringfireball.net/projects/markdown/basics)
   - [Daring Fireball MD Syntax](http://daringfireball.net/projects/markdown/syntax)
   - [Byword MultiMarkdown Guide](http://bywordapp.com/markdown/guide.html)
- 
-#### Markdown plugins and apps
-  - [Sublime MD Preview Plugin](https://github.com/revolunet/sublimetext-markdown-preview)
-  - [Mou MD writer app](http://mouapp.com/)
-  - [Atom text editor](https://atom.io) has a markdown preview built in.
 
 ## Summary
 
 Not a lesson in the traditional sense, but a great list of resources for you now or going forward on git resources! (Also of note, Markdown is the text formating used to display readme's on GitHub, hence the .md extension of README.md.) Cheers!
-

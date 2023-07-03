@@ -1,4 +1,3 @@
-
 # Git Resources
 
 ## Introduction
@@ -28,7 +27,6 @@ You will be able to:
   - [Workflows](http://git-scm.com/book/en/Git-Branching-Branching-Workflows)
   
 ### Additional Git Resources
-  - [Git Guide](http://rogerdudler.github.io/git-guide/)
   - [Git Branching](http://pcottle.github.io/learnGitBranching/)
   - [Visual Git](http://marklodato.github.io/visual-git-guide/index-en.html)
   - [Public Private Key Video](http://www.youtube.com/watch?v=3QnD2c4Xovk&feature=plcp)
@@ -41,7 +39,6 @@ You will be able to:
  
 #### Markdown plugins and apps
   - [Sublime MD Preview Plugin](https://github.com/revolunet/sublimetext-markdown-preview)
-  - [Mou MD writer app](http://mouapp.com/)
   - [Atom text editor](https://atom.io) has a markdown preview built in.
 
 ## Summary
